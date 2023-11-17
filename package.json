@@ -16,7 +16,7 @@
     "express": "latest",
     "express-basic-auth": "^1.2.0",
     "mime-types": "latest",
-    "moment": "latest",
+    "moment": "2.29.4",
     "nedb": "latest",
     "nodemailer": "^6.7.3"
   },
