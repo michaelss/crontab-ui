@@ -10,7 +10,7 @@
   "dependencies": {
     "body-parser": "latest",
     "connect-busboy": "latest",
-    "cron-parser": "latest",
+    "cron-parser": "2.18.0",
     "cronstrue": "latest",
     "ejs": "latest",
     "express": "latest",
