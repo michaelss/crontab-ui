@@ -11,7 +11,7 @@
     "body-parser": "latest",
     "connect-busboy": "latest",
     "cron-parser": "latest",
-    "cronstrue": "latest",
+    "cronstrue": "2.41.0",
     "ejs": "latest",
     "express": "latest",
     "express-basic-auth": "^1.2.0",
