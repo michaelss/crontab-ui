@@ -12,7 +12,7 @@
     "connect-busboy": "latest",
     "cron-parser": "latest",
     "cronstrue": "latest",
-    "ejs": "latest",
+    "ejs": "3.1.10",
     "express": "latest",
     "express-basic-auth": "^1.2.0",
     "mime-types": "latest",
