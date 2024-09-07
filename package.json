@@ -9,8 +9,8 @@
   },
   "dependencies": {
     "body-parser": "latest",
-    "connect-busboy": "latest",
-    "cron-parser": "latest",
+    "connect-busboy": "1.0.0",
+    "cron-parser": "3.0.0",
     "cronstrue": "latest",
     "ejs": "latest",
     "express": "latest",
